@@ -1,3 +1,5 @@
+Papers 的更新都将转移到 https://github.com/slowmist/Knowledge-Base 继续:)
+
 # SlowMist Vulnerability Research Advisories(慢雾科技漏洞研究报告)
 
 ## 0x01
